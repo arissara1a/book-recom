@@ -1,0 +1,80 @@
+.headerbg {
+    background-color:#c4f4ff;
+}
+
+.bgcolor {
+    background-color: #b2f0be;
+}
+
+.yellow-bg{
+    background-color: #fcf5d9;
+}
+
+
+h1 {
+    font-family: "Playpen Sans Thai", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #d6643b;
+    }
+
+ .headfont {
+    font-family: "Playpen Sans Thai", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+h2 {
+    font-family: "Mitr", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #3d3d3d;
+    }
+
+h3 {
+    font-family: "Mitr", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #E14E2B;
+    }
+
+p {
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+    }
+
+.mitr-font {
+  font-family: "Mitr", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #E14E2B ;
+}
+
+.itim-font {
+  font-family: "Itim", cursive;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.indent{
+    text-indent: 4em;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 5px rgba(255, 177, 132, 0.671);
+}
+
+.text-blue {
+    color:#00b0d8 ;
+}
+
+.gradient-bg {
+  background: linear-gradient(to bottom, #c7f7ff, #edffc5, #b2f0be);
+}
+
+.gradient-2 {
+  background: linear-gradient(to bottom, #edffc5, #b2f0be);
+}
